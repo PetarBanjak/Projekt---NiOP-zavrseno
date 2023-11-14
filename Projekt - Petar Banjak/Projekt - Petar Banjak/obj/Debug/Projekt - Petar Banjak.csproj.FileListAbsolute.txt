@@ -1,0 +1,12 @@
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\bin\Debug\Projekt - Petar Banjak.exe.config
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\bin\Debug\Projekt - Petar Banjak.exe
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\bin\Debug\Projekt - Petar Banjak.pdb
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt - Petar Banjak.csproj.AssemblyReference.cache
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt___Petar_Banjak.Impuls.resources
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt___Petar_Banjak.Menu.resources
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt___Petar_Banjak.Properties.Resources.resources
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt - Petar Banjak.csproj.GenerateResource.cache
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt - Petar Banjak.csproj.CoreCompileInputs.cache
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt - Petar Banjak.exe
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt - Petar Banjak.pdb
+C:\Users\user2\source\repos\Projekt - Petar Banjak\Projekt - Petar Banjak\obj\Debug\Projekt___Petar_Banjak.Valna_duljina.resources
